@@ -1,4 +1,5 @@
 <project>
   <version>3.0.0</version>
   <package>jar</package>
+  <artifactid>core</artifactid>
 </project>
