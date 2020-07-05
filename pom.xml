@@ -4,4 +4,7 @@
   <groupid>appcare</groupid>
   <artifactid>core</artifactid>
   <version>1.0.0-SNAPSHOT</version>
+
+  <repositories>
+  </repositories>
 </project>
